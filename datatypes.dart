@@ -1,11 +1,11 @@
 void main() {
   // Example of int data type
-  int age = 25;
-  print('Age: $age'); // Output: Age: 25
+  int age = 35;
+  print('Age: $age'); // Output: Age: 35
   
   // Example of double data type
-  double height = 5.9;
-  print('Height: $height'); // Output: Height: 5.9
+  double height = 6.9;
+  print('Height: $height'); // Output: Height: 6.9
   
   // Example of String data type
   String name = 'John Doe';
